@@ -9,7 +9,7 @@
 
 ![t2terminal](https://user-images.githubusercontent.com/104857185/172542157-adc4008d-4b3f-42e5-a4bb-022dee5a6c7a.jpg)
 
-#### Модуль 1С Упрвление автотранспортом
+#### Модуль 1С Управление автотранспортом
 
 ![Конфигурация 1С УАТ](https://user-images.githubusercontent.com/104857185/172542194-c454edb8-ddf0-410b-b524-19d2ab66e930.png)
 
