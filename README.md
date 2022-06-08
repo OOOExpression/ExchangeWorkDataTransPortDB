@@ -3,6 +3,11 @@
  - телеметрии,
  - телематике.
 
+#### Решения по архитектуре от ШТРИХ-а, как образец
+
+![technology-img](https://user-images.githubusercontent.com/104857185/172546474-4b6a6cce-29dd-4a90-937f-386ed18cbe10.jpg)
+
+
 #### Модуль 1С Управление автотранспортом
 
 ![Конфигурация 1С УАТ](https://user-images.githubusercontent.com/104857185/172542194-c454edb8-ddf0-410b-b524-19d2ab66e930.png)
