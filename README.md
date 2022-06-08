@@ -18,6 +18,9 @@
 
 ![Конфигурация 1С УАТ](https://user-images.githubusercontent.com/104857185/172542194-c454edb8-ddf0-410b-b524-19d2ab66e930.png)
 ![О программе 1С УАТ](https://user-images.githubusercontent.com/104857185/172542236-d6473e4c-9c65-4a19-a16f-372bc0189e6d.png)
+
+#### Заполнение первички в автоколонне
+
 ![IMG_1572](https://user-images.githubusercontent.com/104857185/172545961-0ede0981-c92b-4f3d-a0fb-4374296ae6a3.JPG)
 
 #### Стационарная инфраструктура
